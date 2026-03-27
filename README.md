@@ -104,7 +104,7 @@ Consulte o relatório técnico completo em `RELATORIO_ENEM_2024.pdf` para:
 
 ## 👨‍💻 Desenvolvido por
 
-Manus AI - Análise Estatística de Dados
+Piettro Nakashoji
 
 ## 📝 Licença
 
